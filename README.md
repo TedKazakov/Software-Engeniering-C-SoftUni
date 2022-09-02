@@ -1,2 +1,2 @@
-# Software-Engeniering-C-SoftUni
+# Software-Engeniering-CSharp-SoftUni
 Tasks from SoftUni
